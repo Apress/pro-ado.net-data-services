@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cb0a08d8-cc8d-4df2-9bca-41b796cfb255" xmlns="urn:schemas-microsoft-com:xml-dataservicemap">
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1101/Northwind.svc/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.edmx" MetadataType="Edmx" ID="6b6e1317-44c8-4363-a954-e7483f3e1ce6" SourceId="1" SourceUrl="http://localhost:1101/Northwind.svc/" />
+  </Metadata>
+  <Extensions />
+</ReferenceGroup>

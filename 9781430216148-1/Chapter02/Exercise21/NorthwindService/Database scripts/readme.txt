@@ -1,0 +1,1 @@
+Navigate to SQL Server explorer, Right click Databases -> attach -> Navigate to Northwind.mdf -> Rename to Northwind -> Grant DBO Security access to local administrator.

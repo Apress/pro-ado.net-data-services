@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apress.DataServices.Northwind.WebApp", "Apress.DataServices.Northwind.WebApp\Apress.DataServices.Northwind.WebApp.csproj", "{FEA9B035-95CD-412F-996A-B913AA063CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataServicesConcepts", "DataServicesConcepts\DataServicesConcepts.csproj", "{AE3080EC-4E77-4515-AE3D-74099623FE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA9B035-95CD-412F-996A-B913AA063CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA9B035-95CD-412F-996A-B913AA063CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA9B035-95CD-412F-996A-B913AA063CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA9B035-95CD-412F-996A-B913AA063CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3080EC-4E77-4515-AE3D-74099623FE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3080EC-4E77-4515-AE3D-74099623FE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3080EC-4E77-4515-AE3D-74099623FE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3080EC-4E77-4515-AE3D-74099623FE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
